@@ -16,7 +16,7 @@ Our server scanner is a web-based tool that allows users to search for Minecraft
 
 We also offer a Minecraft Fabric mod that adds new features to the game to help players find servers. The mod adds a server browser that allows players to easily search for servers based on location, game mode, player count, and more. It also includes a favorites list, so players can easily keep track of their favorite servers.
 
-Our Minecraft Fabric mod can be downloaded from our [GitHub repository](https://example.com).
+Our Minecraft Fabric mod is being worked on.
 
 ## Getting Started
 
