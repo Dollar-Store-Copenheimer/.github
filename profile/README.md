@@ -10,7 +10,7 @@ To add our bot to your Discord server, simply visit our [ADD TO SERVER]([https:/
 
 ## Server Scanner
 
-Our server scanner is a web-based tool that allows users to search for Minecraft servers based on a variety of criteria. This tool is especially useful for those looking for servers with specific mods, plugins, or versions. Users can filter servers based on location, game mode, player count, and more.
+Our server scanner is a tool that allows users to search for Minecraft servers based on a variety of criteria. This tool is especially useful for those looking for servers with specific mods, plugins, or versions. Users can filter servers based on location, game mode, player count, and more.
 
 ## Minecraft Fabric Mod
 
